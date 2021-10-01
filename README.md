@@ -3,8 +3,8 @@ MatLab Code for ROI-MCR-ALS analysis of .mzXML mass spectrometry data.
 
 Required MatLab Toolboxes:
 
- - Statistics and Machine Learning Toolbox,
- - Bioinformatics Toolbox,
+ - Statistics and Machine Learning Toolbox
+ - Bioinformatics Toolbox
  - Parallel Computing Toolbox
 
 Functions inside the folder DataProcessingTest can be used to preview an MS file and testing processing parameters. 
