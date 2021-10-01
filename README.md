@@ -24,4 +24,4 @@ MatLab_ROIMCRALS_Cheatsheet.pdf contains a quick overview of all command line co
 
 See ROI_MCR_ALS_Manual_v1.0.pdf for a detailed guide how to use these functions.
 
-For feature requests and bug reports contact me at Adrian.Haun@hs-aalen.de
+For feature requests and bug reports open a new issue or contact me at Adrian.Haun@hs-aalen.de
